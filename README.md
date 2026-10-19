@@ -1,3 +1,5 @@
+![EDGE VR — Hardware e VR](edge-cover.png)
+
 # EDGE · PCB design & hardware prototyping
 
 **Mêitti Freitas · Hardware, embedded systems & product development**  
@@ -5,9 +7,14 @@
 
 I develop electronics, mechanical parts and tools for VR products. This portfolio presents selected work from 2026: KiCad schematics and PCB layout, firmware bring-up, prototyping and the practical work of preparing a product for assembly.
 
+<details>
+<summary>EDGE tracker visualization</summary>
+
 ![EDGE VR Smol tracker — exploded product visualization](smol-explodido.png)
 
 *Exploded product render from the local EDGE project archive. This is a visualization, not a photograph or a certification of the current hardware revision.*
+
+</details>
 
 ## Featured PCB projects
 
